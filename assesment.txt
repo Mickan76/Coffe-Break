@@ -1,0 +1,6 @@
+metoder
+klasser 
+instanser
+kollektioner (List)
+Grundläggande Linq
+konstruktorer
